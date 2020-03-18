@@ -12,10 +12,11 @@ service:
     content: I graduated with a PhD in experimental particle physics from the University
       of Victoria. I had to winnow out the signal events from a large dataset. Programming
       and plotting were a large part of my life.
-  - name: Media &amp; Advertisement
+  - name: Medical physics
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'Then I relocated to Hong Kong and worked as a medical physicist. But
+      I did not stray far from data: most of my research projects were about analyzing
+      data .'
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
