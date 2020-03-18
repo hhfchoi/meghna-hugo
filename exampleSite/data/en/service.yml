@@ -3,15 +3,15 @@ service:
   enable: true
   title: My Experiences
   service_item:
+  - name: University Years
+    icon: ''
+    content: I did a Combined Specialist program (a combined honours) in Mathematics
+      and Physics at the University of Toronto.
   - name: Particle physics
     icon: ti-world
     content: I graduated with a PhD in experimental particle physics from the University
       of Victoria. I had to winnow out the signal events from a large dataset. Programming
       and plotting were a large part of my life.
-  - name: Responsive Design
-    icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
