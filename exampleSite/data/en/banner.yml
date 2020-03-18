@@ -9,5 +9,5 @@ banner:
     stray far away from data. Here is my journey.
   button:
     enable: true
-    label: Explore Us
+    label: About Me
     link: "#services"
