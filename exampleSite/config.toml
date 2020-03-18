@@ -1,4 +1,4 @@
-baseURL = "http://hhfchoi.netlify.com"
+baseURL = "https://hhfchoi.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
