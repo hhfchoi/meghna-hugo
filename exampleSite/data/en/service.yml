@@ -1,11 +1,13 @@
 ---
 service:
   enable: true
-  title: Resume
+  title: My Experiences
   service_item:
-  - name: Resume
+  - name: Particle physics
     icon: ti-world
-    content: Professional resume
+    content: I graduated with a PhD in experimental particle physics from the University
+      of Victoria. I had to winnow out the signal events from a large dataset. Programming
+      and plotting were a large part of my life.
   - name: Responsive Design
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
