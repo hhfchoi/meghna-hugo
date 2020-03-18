@@ -1,15 +1,10 @@
 ---
-title: "Mark Dinn"
-image: ""
-email: "email2@example.org"
+title: Hervé Choi
+image: ''
+email: hhfchoi@gmail.com
 social:
-  - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
----
+- icon: ti-github
+  link: "#"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+---
+Physicien des particules, physicien médical, scientifique des données - ce sont les métiers très différents, mais au fond, une passion les lie - les données.
