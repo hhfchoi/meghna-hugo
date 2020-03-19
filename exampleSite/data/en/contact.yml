@@ -7,6 +7,6 @@ contact:
   form_action: "#"
   contact_details:
   - icon: ti-github
-    info: hhfchoi
+    info: https://github.com/hhfchoi
   - icon: ti-email
     info: 'Email: hhfchoi@gmail.com'
