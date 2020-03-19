@@ -40,8 +40,8 @@ portfolio:
     categories:
     - medical physics
     - data fitting
-    content: Investigates a different beam qualifier that may better describe the
-      behaviour of the oxygen enhancement ratio curve
+    content: How well can oxygenation help in radiotherapy for different particle
+      beams?
     link: "#"
   - name: Ethnic restaurants in Toronto
     image: images/portfolio/portfolio-3.jpg
