@@ -19,23 +19,6 @@ portfolio:
     content: Comparing fluence reconstructed from signals collected in the onboard
       exit detector with the planned fluence in TomoTherapy
     link: ''
-  - name: Ethnic restaurants in Toronto
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
-    categories:
-    - data science
-    content: Looking at concentration of ethnic restaurants in different neighbourhoods
-      of Toronto
-    link: "#"
-  - name: Radiomics Study for Lung Cancer
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
-    categories:
-    - medical physics
-    - data science
-    content: Corresponds the tumour features present in the CT image with the survival
-      outcome of the patient
-    link: "#"
   - name: Global fit on radiobiological data
     image: images/portfolio/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
@@ -62,4 +45,21 @@ portfolio:
     - data fitting
     content: Investigates a different beam qualifier that may better describe the
       behaviour of the oxygen enhancement ratio curve
+    link: "#"
+  - name: Ethnic restaurants in Toronto
+    image: images/portfolio/portfolio-3.jpg
+    image_webp: images/portfolio/portfolio-3.webp
+    categories:
+    - data science
+    content: Looking at concentration of ethnic restaurants in different neighbourhoods
+      of Toronto
+    link: "#"
+  - name: Radiomics study for lung cancer
+    image: images/portfolio/portfolio-4.jpg
+    image_webp: images/portfolio/portfolio-4.webp
+    categories:
+    - medical physics
+    - data science
+    content: Corresponds the tumour features present in the CT image with the survival
+      outcome of the patient
     link: "#"
