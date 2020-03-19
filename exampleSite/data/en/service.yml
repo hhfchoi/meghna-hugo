@@ -17,9 +17,8 @@ service:
     content: 'Then I relocated to Hong Kong and worked as a medical physicist. But
       I did not stray far from data: most of my research projects were about analyzing
       data .'
-  - name: Data Scientist
+  - name: Data Science
     icon: ti-bar-chart
-    content: Then I moved back to Canada with my family. In January 2020, I joined
-      the full-time diploma program at BrainStation in Vancouver to train myself as
-      a data scientist. I have fallen in love with coding and making plots all over
-      again.
+    content: In January 2020, I joined the full-time diploma program at BrainStation
+      in Vancouver to train myself as a data scientist. I have fallen in love with
+      coding and making plots all over again.
