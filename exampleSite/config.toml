@@ -1,5 +1,5 @@
 baseURL = "https://hhfchoi.netlify.com"
-disableLanguages = []
+disableLanguages = ["[\"fr\"]"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -18,25 +18,25 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+URL = "about"
+name = "About Us"
+weight = 1
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
+URL = "services"
+name = "Service"
+weight = 2
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 3
 [[menu.main]]
-URL = "services"
-name = "My Experiences"
-weight = 2
+URL = "blog"
+name = "Blog"
+weight = 6
 [[menu.main]]
-URL = "about"
-name = "About Me"
-weight = 1
+URL = "contact"
+name = "Contact"
+weight = 7
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
