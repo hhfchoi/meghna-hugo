@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
-  icon: ''
+  icon: ti-stats-up
   title: My journey through data
   content: From particle physics to medical physics to data science, I just did not
     stray far away from data. Here is my journey.
