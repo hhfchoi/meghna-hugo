@@ -54,11 +54,12 @@ portfolio:
     content: Fitting the radiobiological effectiveness with various beam qualifiers
       for different heavy particle beams
     link: "#"
-  - name: Tag Design
+  - name: New model for oxygen enhancement ratio?
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories:
-    - design
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    - medical physics
+    - data fitting
+    content: Investigates a different beam qualifier that may better describe the
+      behaviour of the oxygen enhancement ratio curve
     link: "#"
