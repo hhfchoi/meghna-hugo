@@ -1,5 +1,5 @@
 baseURL = "https://hhfchoi.netlify.com"
-disableLanguages = ["[\"fr\"]"]
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
