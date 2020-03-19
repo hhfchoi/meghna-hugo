@@ -15,8 +15,7 @@ portfolio:
     image_webp: images/portfolio/portfolio-2.webp
     categories:
     - medical physics
-    content: Comparing fluence reconstructed from signals collected in the onboard
-      exit detector with the planned fluence in TomoTherapy
+    content: Can the imaging detector spot something is wrong with the leaves?
     link: ''
   - name: Global fit on radiobiological data
     image: images/portfolio/portfolio-5.jpg
