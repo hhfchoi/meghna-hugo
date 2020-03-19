@@ -32,8 +32,7 @@ portfolio:
     categories:
     - medical physics
     - data fitting
-    content: Fitting the radiobiological effectiveness with various beam qualifiers
-      for different heavy particle beams
+    content: How do cells react to different types of radiation?
     link: "#"
   - name: New model for oxygen enhancement ratio?
     image: images/portfolio/portfolio-2.jpg
