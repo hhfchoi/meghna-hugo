@@ -20,8 +20,8 @@ portfolio:
     content: Can the imaging detector spot something is wrong with the leaves?
     link: ''
   - name: Global fit on radiobiological data
-    image: images/portfolio/ptcog58.jpg
-    image_webp: images/portfolio/ptcog58.webp
+    image: images/portfolio/GlobalFit-PTCOG.jpg
+    image_webp: images/portfolio/GlobalFit-PTCOG.webp
     categories:
     - medical physics
     - data fitting
