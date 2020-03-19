@@ -37,14 +37,14 @@ portfolio:
     content: How do cells react to different types of radiation?
     link: "#"
   - name: New model for oxygen enhancement ratio?
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+    image: images/portfolio/AAPM2019.jpg
+    image_webp: images/portfolio/AAPM2019.webp
     categories:
     - medical physics
     - data fitting
     content: How well can oxygenation help in radiotherapy for different particle
       beams?
-    link: "#"
+    link: https://w3.aapm.org/meetings/2019AM/programInfo/programAbs.php?sid=7945&aid=44980
   - name: Ethnic restaurants in Toronto
     image: images/portfolio/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
