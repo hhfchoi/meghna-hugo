@@ -11,12 +11,13 @@ portfolio:
     content: A study correlating data trends collected by an on-board system for TomoTherapy
       machines and machine functional status
     link: https://themefisher.com
-  - name: Sound system
+  - name: Leaf error detection by TomoTherapy exit detector
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    - medical physics
+    content: Comparing fluence reconstructed from signals collected in the onboard
+      exit detector with the planned fluence in TomoTherapy
     link: ''
   - name: Clock Product
     image: images/portfolio/portfolio-3.jpg
