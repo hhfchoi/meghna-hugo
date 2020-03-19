@@ -10,4 +10,4 @@ banner:
   button:
     enable: true
     label: About Me
-    link: "#services"
+    link: "#about"
