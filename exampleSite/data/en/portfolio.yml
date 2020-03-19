@@ -52,7 +52,7 @@ portfolio:
     - data science
     content: Which neighbourhood has the most Filipino restaurants per capita, for
       example?
-    link: "#"
+    link: https://medium.com/@hhfchoi/ethnic-restaurants-in-toronto-b2bfb9236179
   - name: Radiomics study for lung cancer
     image: images/portfolio/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
