@@ -3,13 +3,13 @@ about:
   enable: true
   title: About Me
   about_item:
-  - icon: ti-home
+  - icon: ti-map-alt
     title: Born in Hong Kong
     content: A bustling city with muggy summers
   - icon: ti-timer
     title: Grew Up in Toronto
     content: In the suburbs of North York
-  - icon: ti-map-alt
+  - icon: ti-image
     title: Live in Vancouver
     content: Currently based in the beautiful city of Vancouver, British Columbia,
       Canada
