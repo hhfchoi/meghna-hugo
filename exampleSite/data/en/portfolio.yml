@@ -57,6 +57,5 @@ portfolio:
     categories:
     - medical physics
     - data science
-    content: Corresponds the tumour features present in the CT image with the survival
-      outcome of the patient
+    content: Can we predict the survival outcome from what the tumour looks like?
     link: "#"
