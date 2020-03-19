@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: images/backgrounds/screencap.webp
+  bg_image: images/backgrounds/screencap.jpg
   icon: ti-stats-up
   title: My journey through data
   content: From particle physics to medical physics to data science, I just did not
