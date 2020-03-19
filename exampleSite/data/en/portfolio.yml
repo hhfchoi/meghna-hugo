@@ -27,13 +27,14 @@ portfolio:
     content: Looking at concentration of ethnic restaurants in different neighbourhoods
       of Toronto
     link: "#"
-  - name: Bottol Label
+  - name: Radiomics Study for Lung Cancer
     image: images/portfolio/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
     categories:
-    - photography
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    - medical physics
+    - data science
+    content: Corresponds the tumour features present in the CT image with the survival
+      outcome of the patient
     link: "#"
   - name: Shopping Bag
     image: images/portfolio/portfolio-5.jpg
