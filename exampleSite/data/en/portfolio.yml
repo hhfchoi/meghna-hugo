@@ -48,8 +48,8 @@ portfolio:
     image_webp: images/portfolio/portfolio-3.webp
     categories:
     - data science
-    content: Looking at concentration of ethnic restaurants in different neighbourhoods
-      of Toronto
+    content: Which neighbourhood has the most Filipino restaurants per capita, for
+      example?
     link: "#"
   - name: Radiomics study for lung cancer
     image: images/portfolio/portfolio-4.jpg
