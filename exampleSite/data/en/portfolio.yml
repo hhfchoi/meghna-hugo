@@ -12,8 +12,8 @@ portfolio:
     content: Does the machine need servicing based on machine data?
     link: https://aapm.onlinelibrary.wiley.com/doi/full/10.1120/jacmp.v15i2.4548
   - name: Leaf error detection by TomoTherapy exit detector
-    image: images/portfolio/ESTRO-38.jpg
-    image_webp: images/portfolio/ESTRO-38.webp
+    image: images/portfolio/sinogram.jpg
+    image_webp: images/portfolio/sinogram.webp
     categories:
     - medical physics
     - image analysis
