@@ -9,7 +9,7 @@ portfolio:
     categories:
     - medical physics
     - data fitting
-    content: How well can TomoTherapy's machine data predict its functional status?
+    content: How well can a radiotherapy machine data predict its functional status?
     link: https://aapm.onlinelibrary.wiley.com/doi/full/10.1120/jacmp.v15i2.4548
   - name: Leaf error detection by TomoTherapy exit detector
     image: images/portfolio/ESTRO-38.jpg
