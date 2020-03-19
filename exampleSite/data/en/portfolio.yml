@@ -45,27 +45,14 @@ portfolio:
     content: Fitting a new mathematical model that includes LET and dose as variables
       on published radiobiological data
     link: "#"
-  - name: Tag Design
+  - name: RBE versus various parameters
     image: images/portfolio/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp
     categories:
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    link: "#"
-  - name: Business Card
-    image: images/portfolio/portfolio-7.jpg
-    image_webp: images/portfolio/portfolio-7.webp
-    categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    link: "#"
-  - name: Stationary Design
-    image: images/portfolio/portfolio-8.jpg
-    image_webp: images/portfolio/portfolio-8.webp
-    categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    - medical physics
+    - data fitting
+    content: Fitting the radiobiological effectiveness with various beam qualifiers
+      for different heavy particle beams
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-2.jpg
