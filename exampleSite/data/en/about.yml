@@ -3,9 +3,10 @@ about:
   enable: true
   title: About Me
   about_item:
-  - icon: ''
-    title: ''
-    content: ''
+  - icon: fas fa-city
+    title: Born in Hong Kong
+    content: It was still a British colony then, and spending my childhood there was
+      pretty good
   - icon: ti-ruler-pencil
     title: Love a math problem
     content: Especially when there is an elegant solution to it
