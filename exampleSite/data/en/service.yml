@@ -4,21 +4,21 @@ service:
   title: My Experiences
   service_item:
   - name: University Years
-    icon: ''
+    icon: ti-book
     content: I did a Combined Specialist program (a combined honours) in Mathematics
       and Physics at the University of Toronto.
   - name: Particle physics
-    icon: ti-world
+    icon: ti-vector
     content: I graduated with a PhD in experimental particle physics from the University
       of Victoria. I had to winnow out the signal events from a large dataset. Programming
       and plotting were a large part of my life.
   - name: Medical physics
-    icon: ti-blackboard
+    icon: ti-heart
     content: 'Then I relocated to Hong Kong and worked as a medical physicist. But
       I did not stray far from data: most of my research projects were about analyzing
       data .'
   - name: Data Scientist
-    icon: ''
+    icon: ti-bar-chart
     content: Then I moved back to Canada with my family. In January 2020, I joined
       the full-time diploma program at BrainStation in Vancouver to train myself as
       a data scientist. I have fallen in love with coding and making plots all over
