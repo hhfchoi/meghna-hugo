@@ -46,8 +46,8 @@ portfolio:
       beams?
     link: https://w3.aapm.org/meetings/2019AM/programInfo/programAbs.php?sid=7945&aid=44980
   - name: Ethnic restaurants in Toronto
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
+    image: images/portfolio/toronto.jpg
+    image_webp: images/portfolio/toronto.webp
     categories:
     - data science
     content: Which neighbourhood has the most Filipino restaurants per capita, for
