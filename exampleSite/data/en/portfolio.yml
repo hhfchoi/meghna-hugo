@@ -54,8 +54,8 @@ portfolio:
       example?
     link: https://medium.com/@hhfchoi/ethnic-restaurants-in-toronto-b2bfb9236179
   - name: Radiomics study for lung cancer
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
+    image: images/portfolio/lung-mass-crop.jpg
+    image_webp: images/portfolio/lung-mass-crop.webp
     categories:
     - medical physics
     - data science
