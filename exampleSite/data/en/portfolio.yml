@@ -58,5 +58,5 @@ portfolio:
     categories:
     - medical physics
     - data science
-    content: Can we predict the survival outcome from what the tumour looks like?
+    content: Can we predict the survival outcome from tumour features?
     link: "#"
