@@ -6,7 +6,9 @@ contact:
   content: ''
   form_action: "#"
   contact_details:
-  - icon: ti-github
-    info: https://github.com/hhfchoi
+  - icon: ti-linkedin
+    info: https://www.linkedin.com/in/herve-choi/
   - icon: ti-email
     info: 'Email: hhfchoi@gmail.com'
+  - icon: ti-github
+    info: https://github.com/hhfchoi
