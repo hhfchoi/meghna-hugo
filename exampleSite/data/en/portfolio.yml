@@ -23,8 +23,8 @@ portfolio:
     categories:
     - medical physics
     - data fitting
-    content: Fitting a new mathematical model that includes LET and dose as variables
-      on published radiobiological data
+    content: Can a new mathematical model generalize existing results to new particle
+      beams?
     link: "#"
   - name: RBE versus various parameters
     image: images/portfolio/portfolio-6.jpg
