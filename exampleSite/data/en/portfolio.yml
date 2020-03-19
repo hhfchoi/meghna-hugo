@@ -8,6 +8,7 @@ portfolio:
     image_webp: images/portfolio/portfolio-1.webp
     categories:
     - medical physics
+    - data fitting
     content: How well can TomoTherapy's machine data predict its functional status?
     link: https://aapm.onlinelibrary.wiley.com/doi/full/10.1120/jacmp.v15i2.4548
   - name: Leaf error detection by TomoTherapy exit detector
@@ -15,6 +16,7 @@ portfolio:
     image_webp: images/portfolio/ESTRO-38.webp
     categories:
     - medical physics
+    - image analysis
     content: Can the imaging detector spot something is wrong with the leaves?
     link: ''
   - name: Global fit on radiobiological data
