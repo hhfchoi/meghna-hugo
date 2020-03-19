@@ -4,8 +4,8 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: TQA data trends and machine performance
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.webp
+    image: images/portfolio/GlobalFit-PTCOG.jpg
+    image_webp: images/portfolio/GlobalFit-PTCOG.webp
     categories:
     - medical physics
     - data fitting
