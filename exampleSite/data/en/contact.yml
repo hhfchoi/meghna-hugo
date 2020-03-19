@@ -1,7 +1,7 @@
 ---
 contact:
   enable: true
-  title: Send me a message
+  title: Contact me
   subtitle: ''
   content: ''
   form_action: "#"
