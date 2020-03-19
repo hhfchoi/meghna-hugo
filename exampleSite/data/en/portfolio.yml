@@ -8,8 +8,7 @@ portfolio:
     image_webp: images/portfolio/portfolio-1.webp
     categories:
     - medical physics
-    content: A study correlating data trends collected by an on-board system for TomoTherapy
-      machines and machine functional status
+    content: How well can TomoTherapy's machine data predict its functional status?
     link: https://aapm.onlinelibrary.wiley.com/doi/full/10.1120/jacmp.v15i2.4548
   - name: Leaf error detection by TomoTherapy exit detector
     image: images/portfolio/portfolio-2.jpg
