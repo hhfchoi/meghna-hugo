@@ -36,12 +36,14 @@ portfolio:
     content: Corresponds the tumour features present in the CT image with the survival
       outcome of the patient
     link: "#"
-  - name: Shopping Bag
+  - name: Global fit on radiobiological data
     image: images/portfolio/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
     categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    - medical physics
+    - data fitting
+    content: Fitting a new mathematical model that includes LET and dose as variables
+      on published radiobiological data
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-6.jpg
