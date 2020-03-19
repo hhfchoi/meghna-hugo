@@ -19,13 +19,13 @@ portfolio:
     content: Comparing fluence reconstructed from signals collected in the onboard
       exit detector with the planned fluence in TomoTherapy
     link: ''
-  - name: Clock Product
+  - name: Ethnic restaurants in Toronto
     image: images/portfolio/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
     categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    - data science
+    content: Looking at concentration of ethnic restaurants in different neighbourhoods
+      of Toronto
     link: "#"
   - name: Bottol Label
     image: images/portfolio/portfolio-4.jpg
