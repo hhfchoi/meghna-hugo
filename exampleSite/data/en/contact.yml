@@ -6,5 +6,7 @@ contact:
   content: ''
   form_action: "#"
   contact_details:
+  - icon: ti-github
+    info: hhfchoi
   - icon: ti-email
     info: 'Email: hhfchoi@gmail.com'
