@@ -50,8 +50,7 @@ portfolio:
     image_webp: images/portfolio/toronto.webp
     categories:
     - data science
-    content: Which neighbourhood has the most Filipino restaurants per capita, for
-      example?
+    content: Which neighbourhood has the most ethnic restaurants per capita?
     link: https://medium.com/@hhfchoi/ethnic-restaurants-in-toronto-b2bfb9236179
   - name: Radiomics study for lung cancer
     image: images/portfolio/lung-mass-crop.jpg
