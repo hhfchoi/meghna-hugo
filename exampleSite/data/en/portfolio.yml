@@ -28,9 +28,9 @@ portfolio:
     content: Can a new mathematical model generalize existing results to new particle
       beams?
     link: "#"
-  - name: RBE versus various parameters
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
+  - name: RBE versus various beam qualifiers
+    image: images/portfolio/ptcog58.jpg
+    image_webp: images/portfolio/ptcog58.webp
     categories:
     - medical physics
     - data fitting
