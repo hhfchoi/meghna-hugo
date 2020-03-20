@@ -51,7 +51,7 @@ portfolio:
     categories:
     - data science
     content: Which neighbourhood has the most ethnic restaurants per capita?
-    link: https://medium.com/@hhfchoi/ethnic-restaurants-in-toronto-b2bfb9236179
+    link: https://github.com/hhfchoi/Coursera_Capstone
   - name: Radiomics study for lung cancer
     image: images/portfolio/lung-mass-crop.jpg
     image_webp: images/portfolio/lung-mass-crop.webp
