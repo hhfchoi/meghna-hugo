@@ -34,4 +34,4 @@ Okay, so I tried again for the 3-year classification problem. Again, nothing.
 
 At that point, I just went to bed. All the other models performed more or less the same, so I should not waste my time redoing the rest.
 
-Now I need to focus on which features are clinically useful. If a feature changes drastically for a patient that gets rescanned after 10 minutes, maybe I should throw it out of my model.
+Now I need to focus on which features are clinically useful. If a feature changes drastically for a patient that gets rescanned after 10 minutes, maybe I should throw it out of my model. That will be more work, which is great.
