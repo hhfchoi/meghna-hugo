@@ -22,6 +22,3 @@ fields:
   name: description
   label: description
   description: meta description
-pages:
-- exampleSite/content/english/blog/capstone-progress.20191203072044
-- exampleSite/content/english/blog/mock-interview.20191203072044
