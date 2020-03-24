@@ -3,7 +3,7 @@ author = "Hervé Choi"
 date = 2020-03-23T23:00:00Z
 description = "Photo by Marcos Luiz Photograph on Unsplash"
 image = "/images/marcos-luiz-photograph-R6xx6fnvPT8-unsplash.jpg"
-image_webp = ""
+image_webp = "/images/marcos-luiz-photograph-R6xx6fnvPT8-unsplash.webp"
 title = "Capstone Progress"
 
 +++
