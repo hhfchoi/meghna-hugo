@@ -16,7 +16,7 @@ service:
     icon: ti-heart
     content: 'Then I relocated to Hong Kong and worked as a medical physicist. But
       I did not stray far from data: most of my research projects were about analyzing
-      data. Some of my projects are data fitting with various radiobiological models,
+      data. Some of my projects are data fitting with various radiobiological models
       and analyzing the relation of data trends with machine performance.'
   - name: Data Science
     icon: ti-bar-chart
