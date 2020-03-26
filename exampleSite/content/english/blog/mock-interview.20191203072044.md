@@ -7,6 +7,8 @@ image_webp = "/images/sebastian-herrmann-NbtIDoFKGO8-unsplash.webp"
 title = "Mock Interview"
 
 +++
+(Photo by Sebastian Herrmann on Unsplash)
+
 It was surprisingly nerve-wracking.
 
 I went through a mock interview with a senior data analyst today. We have met before, so it was surprising for me that I was that nervous walking in. It was even an interview through Zoom, so I did not even have to leave my house.
