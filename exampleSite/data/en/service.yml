@@ -11,12 +11,13 @@ service:
     icon: ti-vector
     content: I graduated with a PhD in experimental particle physics from the University
       of Victoria. I had to winnow out the signal events from a large dataset. Programming
-      and plotting were a large part of my life.
+      and plotting were a large part of my life then.
   - name: Medical physics
     icon: ti-heart
     content: 'Then I relocated to Hong Kong and worked as a medical physicist. But
       I did not stray far from data: most of my research projects were about analyzing
-      data .'
+      data. Some of my projects are data fitting with various radiobiological models,
+      and analyzing the relation of data trends with machine performance.'
   - name: Data Science
     icon: ti-bar-chart
     content: In January 2020, I joined the full-time diploma program at BrainStation
