@@ -7,6 +7,8 @@ image_webp = "/images/marcos-luiz-photograph-R6xx6fnvPT8-unsplash.webp"
 title = "Capstone Progress"
 
 +++
+(Photo by Marcos Luiz Photograph on Unsplash)
+
 We just had our Capstone final in-class presentation today. The sky is a bit bluer now, even in rainy Vancouver.
 
 I have been looking at lung cancer tumour features in CT images and try to correspond them with survival outcomes of the patients. Before I was trying to build classification models to predict whether the patient can survive past 1 year, 3 years and 5 years. The accuracy score has been lacklustre for all the models.
