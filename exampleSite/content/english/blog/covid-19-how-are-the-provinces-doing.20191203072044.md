@@ -18,3 +18,5 @@ Nova Scotia, however, does not seem to hit the inflexion point yet, but the grap
 The other heavily hit provinces, British Columbia and Alberta, have been seeing the curve flattening for some time.
 
 Alberta, however, sees the last few points to resume the previous trajectory of the curve. That can be due to an expanded criterion of testing or statistical fluctuation in the graph.
+
+Let us hope for the best!
