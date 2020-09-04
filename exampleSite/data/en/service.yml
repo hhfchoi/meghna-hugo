@@ -5,8 +5,9 @@ service:
   service_item:
   - name: University Years
     icon: ti-book
-    content: I did a Combined Specialist program (a combined honours) in Mathematics
-      and Physics at the University of Toronto.
+    content: I have always been fascinated with numbers, mathematical models and data,
+      so I did a Combined Specialist program (a combined honours) in Mathematics and
+      Physics at the University of Toronto.
   - name: Particle physics
     icon: ti-vector
     content: For my Ph.D. in experimental particle physics at the University of Victoria,
