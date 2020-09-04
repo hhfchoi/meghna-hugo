@@ -9,9 +9,9 @@ service:
       and Physics at the University of Toronto.
   - name: Particle physics
     icon: ti-vector
-    content: I graduated with a PhD in experimental particle physics from the University
-      of Victoria. I had to winnow out the signal events from a large dataset. Programming
-      and plotting were a large part of my life then.
+    content: For my Ph.D. in experimental particle physics at the University of Victoria,
+      I had to winnow out the signal events from a large dataset. Programming and
+      plotting were a large part of my life then.
   - name: Medical physics
     icon: ti-heart
     content: 'Then I relocated to Hong Kong and worked as a medical physicist. But
