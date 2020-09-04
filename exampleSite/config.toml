@@ -30,7 +30,7 @@ URL = "portfolio"
 name = "Portfolio"
 weight = 3
 [[menu.main]]
-URL = "services"
+URL = "journey"
 name = "The Journey"
 weight = 2
 [[menu.main]]
