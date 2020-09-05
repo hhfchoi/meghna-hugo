@@ -20,6 +20,6 @@ service:
       of data trends with machine performance.
   - name: Data Science
     icon: ti-bar-chart
-    content: In January 2020, I joined the full-time diploma program at BrainStation
-      in Vancouver to train myself as a data scientist. I have fallen in love with
-      coding and making plots all over again.
+    content: In January 2020, I enrolled in a full-time diploma program to train myself
+      as a data scientist. I have fallen in love with coding and making plots all
+      over again.
