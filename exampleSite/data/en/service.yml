@@ -1,5 +1,5 @@
 ---
-journey:
+service:
   enable: true
   title: My Experiences
   service_item:
