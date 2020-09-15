@@ -1,9 +1,9 @@
 +++
 author = "Hervé Choi"
 date = 2020-09-02T07:00:00Z
-description = ""
-image = ""
-image_webp = ""
+description = "<span>Photo by <a href=\"https://unsplash.com/@markuswinkler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Markus Winkler</a> on <a href=\"https://unsplash.com/s/photos/article?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>"
+image = "/images/markus-winkler-hxcifi47fgq-unsplash.jpg"
+image_webp = "/images/markus-winkler-hxcifi47fgq-unsplash.webp"
 title = "My first Medium article"
 
 +++
