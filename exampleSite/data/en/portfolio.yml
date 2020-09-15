@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: My Works
   portfolio_item:
+  - name: Gaming sales
+    image: ''
+    image_webp: ''
+    categories:
+    - data science
+    content: Data visualization story on the sales of video games (data from Kaggle)
+    link: https://public.tableau.com/profile/herv.3935#!/vizhome/Gamingsales/Japanesemarket
   - name: TQA data trends and machine performance
     image: images/portfolio/TQAtrends.jpg
     image_webp: images/portfolio/TQAtrends.webp
