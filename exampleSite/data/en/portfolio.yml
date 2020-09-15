@@ -4,8 +4,8 @@ portfolio:
   title: My Works
   portfolio_item:
   - name: Gaming sales
-    image: " images/screen-post-hixmjh9xhoo-unsplash.jpg"
-    image_webp: " images/screen-post-hixmjh9xhoo-unsplash.webp"
+    image: " images/portfolio/screen-post-hixmjh9xhoo-unsplash.jpg"
+    image_webp: " images/portfolio/screen-post-hixmjh9xhoo-unsplash.webp"
     categories:
     - data science
     content: Data visualization story on the sales of video games (data from Kaggle)
