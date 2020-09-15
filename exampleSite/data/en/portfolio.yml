@@ -8,7 +8,7 @@ portfolio:
     image_webp: images/portfolio/screen-post-hixmjh9xhoo-unsplash.webp
     categories:
     - data science
-    content: Data visualization story on the sales of video games (data from Kaggle)
+    content: Data visualization on video games sales (data from Kaggle)
     link: https://public.tableau.com/profile/herv.3935#!/vizhome/Gamingsales/Japanesemarket
   - name: TQA data trends and machine performance
     image: images/portfolio/TQAtrends.jpg
