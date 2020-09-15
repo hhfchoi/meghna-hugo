@@ -1,9 +1,9 @@
-baseURL = "https://hhfchoi.netlify.com"
+baseURL = "https://hhfchoi.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = ""
 title = "My journey through data"
 [Languages.en]
 contentDir = "content/english"
